@@ -1,7 +1,6 @@
 # Django-Ecommerce-Website
 
-#Quick Shop
-##Quick Shop is a comprehensive web application that provides users with a convenient and user-friendly shopping experience. Whether you choose to register as a client or simply browse as a visitor, Quick Shop offers a seamless shopping journey. This platform empowers users to effortlessly manage their shopping preferences, including bookmarking favorite items and placing orders at their convenience. Furthermore, Quick Shop allows users to request specific products from a variety of vendors, ensuring a diverse and extensive product catalog.
+#Quick_Shop is a comprehensive web application that provides users with a convenient and user-friendly shopping experience. Whether you choose to register as a client or simply browse as a visitor, Quick Shop offers a seamless shopping journey. This platform empowers users to effortlessly manage their shopping preferences, including bookmarking favorite items and placing orders at their convenience. Furthermore, Quick Shop allows users to request specific products from a variety of vendors, ensuring a diverse and extensive product catalog.
 
 Features
 User Authentication: Quick Shop boasts a robust backend system that ensures secure user authentication with each access to the web application. Users are provided with access tokens to guarantee secure backend access to the platform's extensive range of products.
